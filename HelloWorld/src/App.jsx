@@ -19,7 +19,7 @@ function App() {
       <img src="html.png"></img>
       <img src="css.png"></img>
       <img src="js.png"></img><br></br>
-      <video src="video.mp4" controls></video>
+      <video src="video.mp4" controls  style={{ width: "300px", height: "200px" }}></video>
 
 
     </div>
